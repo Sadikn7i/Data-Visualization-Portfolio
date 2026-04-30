@@ -6,7 +6,7 @@ The entire process, from data generation to the final plots, is documented in th
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Extensive Library:** Over 70 distinct and advanced figures, ranging from statistical and time-series analyses to complex relational and geospatial plots.
 * **Modern Tooling:** Primarily leverages **Plotly** for stunning, interactive, and dashboard-ready visuals, complemented by **Seaborn** and **Matplotlib** for statistical depth.
@@ -44,7 +44,7 @@ This project was built using the following tools and libraries:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 To explore the project on your own machine, follow these steps:
 
@@ -89,7 +89,7 @@ To explore the project on your own machine, follow these steps:
 
 ---
 
-## 📈 Full List of Visualizations Created
+## Full List of Visualizations Created
 
 To showcase the breadth of visualization techniques employed, here is a categorized list of the chart types created in this project.
 
@@ -143,7 +143,7 @@ To showcase the breadth of visualization techniques employed, here is a categori
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 * **The Power of Interactivity:** Using Plotly to create interactive charts provides a significantly deeper level of insight than static plots, allowing users to explore the data by hovering, zooming, and filtering.
 * **Choosing the Right Chart:** The project emphasizes the importance of selecting the appropriate visualization for the question at hand, whether it's a Pareto chart for contribution analysis or a Sankey diagram for flow.
