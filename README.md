@@ -1,4 +1,4 @@
-# Data Visualization Portfolio 
+
 
 This repository is a comprehensive demonstration of skills in creating a wide array of insightful, modern, and interactive data visualizations using Python. The project uses a synthetically generated e-commerce dataset for a fictional company, "Quantum Gadgets," to explore and present data in over 70 unique ways.
 
